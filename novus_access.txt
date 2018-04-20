@@ -1,0 +1,6 @@
+servidor: itesmlus.org
+protocolo: ftp
+
+modo de acceso: normal
+usuario: developer@itesmlus.org
+contraseña: developer.nous.2015
